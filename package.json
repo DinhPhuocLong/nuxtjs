@@ -1,0 +1,23 @@
+{
+  "name": "nuxtjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.9.1",
+    "element-ui": "^2.15.1",
+    "moment": "^2.29.1",
+    "nuxt": "^2.15.3",
+    "serve": "^11.3.2",
+    "v-owl-carousel": "^1.0.8",
+    "vue-cookies": "^1.7.4"
+  },
+  "devDependencies": {}
+}
