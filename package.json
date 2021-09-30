@@ -1,5 +1,6 @@
 {
   "name": "nuxtjs",
+  "author": "Đinh Phước Long",
   "version": "1.0.0",
   "private": true,
   "scripts": {
